@@ -1,0 +1,14 @@
+{
+  "name": "ES6_this",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/HendrixLyu/JavaScript_ES6.git",
+  "author": "Hendrix <lvhanchi90@126.com>",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  }
+}
