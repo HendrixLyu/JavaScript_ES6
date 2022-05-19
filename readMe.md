@@ -1,1 +1,1 @@
-this 专题练习 May.2nd
+How to use 'this' in ES6
